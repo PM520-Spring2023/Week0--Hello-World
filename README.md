@@ -43,7 +43,7 @@ Now, for the fourth line:
    followed by "Git"
    
 5. At this point you will be prompted to enter the url for your repository for this problem on github. 
-   It will look something like this "https://github.com/PM520-Spring2021/Week0--Hello-World-username".
+   It will look something like this "https://github.com/PM520-Spring2023/Week0--Hello-World-username".
    
    At this point you will be prompted to enter your github username and password.
    
